@@ -9,4 +9,3 @@ Course information:
 * Start date: 03 Sep 2018
 * End date: 23 Dec 2018
 * Track: audit/non-verified
-
